@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello I'm YesHyeon 🧑🏻‍💻
 
 <!--
 **YesHyeon/YesHyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![YesHyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=YesHyeon&show_icons=true&theme=highcontrast)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YesHyeon&layout=compact&theme=highcontrast)
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
