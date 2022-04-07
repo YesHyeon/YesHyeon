@@ -2,8 +2,6 @@
 ![예스현 깃허브 프로필](https://user-images.githubusercontent.com/81014501/162109576-1645d8dd-d5e0-4c93-b662-1c0485b46252.jpg)
 
 
-## Hello I'm YesHyeon 🧑🏻‍💻
-
 <!--
 **YesHyeon/YesHyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
