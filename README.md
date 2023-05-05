@@ -9,6 +9,7 @@
 ![YesHyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=YesHyeon&show_icons=true&theme=highcontrast)
 
 Skills: JavaScript / TypeScript / React / ReactNative / Vue.JS / Python / HTML / CSS
+
 Portfolio: https://991224.notion.site/c4748d70564542839088b758871c1186
   
 </div>
