@@ -17,14 +17,15 @@
   - Front-end: React / TypeScript / JavaScript / ReactNative / Vue.js / HTML / CSS / Figma
   - Back-end: Node.js / Flask / Springboot / Java / Python
 
+## 🧑🏻‍💻 Careers 
+- NHN Cloud (intern) - 로그플랫폼 개발팀 FE (23.01.02 - 23.02.28)
+- 펫페오톡 (intern) - 개발팀 FE (22.01.02 - 22.06.30)
   
 ## 🧑🏻‍💻 Activities 
-
 - AWS Student Club 1기 - AWS 클라우드 서비스 탐구 동아리 (23.05 - ing)
-- NHN Cloud (intern) - 로그플랫폼 개발팀 FE (23.01.02 - 23.02.28)
 - DND 8기 - 개발자/디자이너 협업동아리  (23.01.02 - ing )
-- K-SW Square - IITP 주관 미국 퍼듀대학교 visiting scholar (22.09.01 - 22.12.22)
-- 펫페오톡 (intern) - 개발팀 FE (22.01.02 - 22.06.30)
+- K-SW Square(정보통신기획평가원) - 미국 퍼듀대학교 Visiting Scholar (22.09.01 - 22.12.22)
+
 
 
 ## 📜 Certificate
