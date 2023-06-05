@@ -13,11 +13,11 @@
 
   </div>
 
-## 💻 Skills 
+##  ⌨️ Skills 
   - Front-end: React / TypeScript / JavaScript / ReactNative / Vue.js / HTML / CSS / Figma
   - Back-end: Node.js / Flask / Springboot / Java / Python
 
-## 🧑🏻‍💻 Careers 
+## 💻 Careers 
 - NHN Cloud (intern) - 로그플랫폼 개발팀 FE (23.01.02 - 23.02.28)
 - 펫페오톡 (intern) - 개발팀 FE (22.01.02 - 22.06.30)
   
@@ -28,12 +28,12 @@
 
 
 
-## 📜 Certificate
+##  📜 Certificate
 - ADsP 
 - SQLD 
 - 컴퓨터활용능력 1급
 
-## 📜 Github Status
+##  📈 Github Status
 
 ![YesHyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=YesHyeon&show_icons=true&theme=highcontrast)
 
