@@ -1,9 +1,7 @@
 <div align="center">
 
 ## YesHyeon's GitHub 🧑🏻‍💻
-  
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYesHyeon&count_bg=%23345A18&title_bg=%2341A890&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/YesHyeon)
+ 
   
  ### 감성적인 개발자 **노현**입니다.
 
