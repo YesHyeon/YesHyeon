@@ -31,9 +31,6 @@
 - SQLD 
 - 컴퓨터활용능력 1급
 
-##  📈 Github Status
-
-![YesHyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=YesHyeon&show_icons=true&theme=highcontrast)
 
 
 
