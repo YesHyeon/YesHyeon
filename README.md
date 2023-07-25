@@ -22,8 +22,8 @@
   
 ## 🧑🏻‍💻 Activities 
 - AWS Student Club 1기 - AWS 클라우드 서비스 탐구 동아리 (23.05 - ing)
-- DND 8기 - 개발자/디자이너 협업동아리  (23.01.02 - ing )
-- K-SW Square(정보통신기획평가원) - 미국 퍼듀대학교 Visiting Scholar Frontend (22.09.01 - 22.12.22)
+- DND 8기 - '모두의시간' 웹 FE 개발  (23.01.02 - ing )
+-정보통신기획평가원(K-SW Square) - 미국 퍼듀대학교 Visiting Scholar 'Rabbit' 앱 FE 개발 (22.09.01 - 22.12.22)
 
 
 
