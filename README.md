@@ -21,9 +21,10 @@
 - 펫페오톡 (intern) - 개발팀 FE (22.01.02 - 22.06.30)
   
 ## 🧑🏻‍💻 Activities 
+- 2023 SW 중심대학 해커톤 참여 - '병원맛집' 개발
 - AWS Student Club 1기 - AWS 클라우드 서비스 탐구 동아리 (23.05 - ing)
 - DND 8기 - '모두의시간' 웹 FE 개발  (23.01.02 - ing )
--정보통신기획평가원(K-SW Square) - 미국 퍼듀대학교 Visiting Scholar 'Rabbit' 앱 FE 개발 (22.09.01 - 22.12.22)
+- 정보통신기획평가원 - 미국 퍼듀대학교 Visiting Scholar '래빗' 앱 FE 개발 (22.09.01 - 22.12.22)
 
 
 
