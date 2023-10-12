@@ -15,7 +15,7 @@
   </div>
 
 ##  ⌨️ Skills 
-  - Front-end: React / TypeScript / JavaScript / ReactNative / Vue.js 
+  - Front-end(Main): React / TypeScript / JavaScript / ReactNative / Vue.js 
   - Back-end: Node.js / Flask / Springboot / Java / Python
 
 ## 💻 Careers 
